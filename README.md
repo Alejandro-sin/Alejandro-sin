@@ -30,7 +30,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 ## Fullstack
 
 
-* [Digitalizer]():This project its about tranform and digitize documents for any kind to formats with accessibility, making data accessible for everyone created at [Platzi Master](https://platzi.com/blog/conoce-que-es-platzi-master/) by [JAMER-team](https://github.com/JAMER-Digitalizer)
+* [Digitalizer](https://github.com/JAMER-Digitalizer/digitalizer): This project its about tranform and digitize documents for any kind to formats with accessibility, making data accessible for everyone created at [Platzi Master](https://platzi.com/blog/conoce-que-es-platzi-master/) by [JAMER-team](https://github.com/JAMER-Digitalizer)
 
 * [Particles](https://github.com/Alejandro-sin/Particles): Particles are a working progress for learning JavaScript, processing, and more about design through programming. It contains lectures, excersises, an experimental patterns inspired by nature and related scientific concepts.
   
