@@ -52,7 +52,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 
 
 <div>
-<img src="https://img.shields.io/badge/Tableu-BA5946?style=for-the-badge&logo=tableau&logoColor=white"><img src="https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white"><img  src="https://img.shields.io/badge/TypeScript-16468E?style=for-the-badge&logo=typescript&logoColor=#3178C6">
+<img src="https://img.shields.io/badge/Tableu-BA5946?style=for-the-badge&logo=tableau&logoColor=white"><img src="https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white"><img  src="https://img.shields.io/badge/TypeScript-16468E?style=for-the-badge&logo=typescript&logoColor=#3178C6"><img src="https://img.shields.io/badge/NodeJS-067A00?style=for-the-badge&logo=Node.js&logoColor=black">
 
 ### Current Study
 <hr>
