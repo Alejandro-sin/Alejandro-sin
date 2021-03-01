@@ -22,8 +22,9 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 ## Data_Science
 
 
-* [News data collection](https://github.com/Alejandro-sin/News-Scraper): Collection, cleaning and storage of data extracted from different sources of Latin American newspapers and related websites to share and inform people.
+* [News data collection](https://github.com/Alejandro-sin/News-Scraper): Collection, cleaning and storage of data extracted from different sources of Latin American newspapers and related websites to share and inform people. After transformation this data will allow to diference between fake or no fake news.
 
+* [Stock data driven app](https://github.com/Alejandro-sin/Stock-data-driven-app): Gathering data from financial sources and creation of interactive web app for consulting behaviors of specific ticker symbol of tech companies.
 
 <!-- 
 * [Metha-data](https://methadata.wordpress.com/):Aquí podría ir un wrodpress con Jupyter, o Jypeters que expliquen, o methadata con un artículo basado en los análisis del scraper -->
@@ -38,7 +39,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 
 * [Particles](https://github.com/Alejandro-sin/Particles): Particles are a working progress for learning JavaScript, processing, and more about design through programming. It contains lectures, excersises, an experimental patterns inspired by nature and related scientific concepts.
   
-
+* [SPA Rick and Morty](): This is a single web aplication that allow to the users to interact with the API of rick and morty, cheking a card of the characters and look into the world of the popular animated series
 
 
 
