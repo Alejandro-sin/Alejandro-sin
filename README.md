@@ -80,7 +80,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 </a>
 </div>
 
-* Member and speaker of the **Google Developer Group comunity** at Puerto Morelos, this talk was about Neurolearning basis and how coginitve neurosciences re changing our paradigm of education as we know.
+* Member and speaker of the **Google Developer Group comunity** at Puerto Morelos, in this talk was about Neurolearning basis and how cognitive neurosciences re changing our paradigm of education as we know.
 
 
 <div align="center">
@@ -91,7 +91,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 
 </div>
 
-* Student of Data Science and fullstack development at **platzi master** program. This program is only for the best students at platzi or those who are able to pass through the exams, is a close comunity that share knowldge, make hackatons, capstone projects, workshops, consultancy. Its an intensive training and coaching técnico.
+* Student of Data Science and fullstack development at **platzi master** program. This program is only for the best students at platzi or those who are able to pass through the exams, is a close comunity that share knowledge, make hackatons, capstone projects, workshops, consultancy. Its an intensive training and technical coaching.
 
 <div align="center">
 <a href="https://methadata.wordpress.com/"><img src="./images/wordpress.png">
