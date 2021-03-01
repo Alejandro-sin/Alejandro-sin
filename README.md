@@ -39,7 +39,7 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 
 * [Particles](https://github.com/Alejandro-sin/Particles): Particles are a working progress for learning JavaScript, processing, and more about design through programming. It contains lectures, excersises, an experimental patterns inspired by nature and related scientific concepts.
   
-* [SPA Rick and Morty](): This is a single web aplication that allow to the users to interact with the API of rick and morty, cheking a card of the characters and look into the world of the popular animated series
+* [SPA Rick and Morty](https://github.com/Alejandro-sin/Learning_Notebooks/tree/master/NoteBooks/Curso%20de%20SPA%20JS/Rick_Morty): This is a single web aplication that allow to the users to interact with the API of rick and morty, cheking a card of the characters and look into the world of the popular animated series
 
 
 
