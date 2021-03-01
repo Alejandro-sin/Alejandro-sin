@@ -72,18 +72,17 @@ The leitmotif of my life is to learn, create and share with everyone as an exerc
 ### Acedemic and Dev community
 <hr>
 
-<a href="https://platzi.com/p/alejandro-sin/">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eHb1ssfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6ew3baia5a26hf9744pr.png" width="100">
+<a href="https://platzi.com/p/alejandro-sin/">       <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eHb1ssfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6ew3baia5a26hf9744pr.png" width="100">
 </a>
 
-* Student of Data Science and web development at **platzi master** program.
+* Student of Data Science and fullstack development at **platzi master** program. This program is only for the best students at platzi or those who are able to pass through the exams, is a close comunity that share knowldge, make hackatons, capstone projects, workshops, consultancy. Its an intensive training and coaching técnico.
 
 <a href="https://youtu.be/4oItLTInh08?t=4375">
 
 <img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY" width="120">
 </a>
 
-* Member and speaker of the **Google Developer Group comunity** at Puerto Morelos
+* Member and speaker of the **Google Developer Group comunity** at Puerto Morelos, this talk was about Neurolearning basis and how coginitve neurosciences re changing our paradigm of education as we know.
 
 <a href="https://methadata.wordpress.com/">
   <img src="./images/wordpress.png">
