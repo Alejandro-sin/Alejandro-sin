@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Data scientist for the love of effort, artist for passion and chemist by profession.
+  Data scientist for the love of effort, artist for passion and chemist by profession.
 
 The leitmotif of my life is to learn, create and share with everyone as an exercise in personal growth, I believe in the power of science and technology but I am also aware of the gap between who thinks and who decides, I consider myself a builder that closes this gap, someone who loves software development, science, literature and believes that **if knowledge is power, data is potential**.
 
